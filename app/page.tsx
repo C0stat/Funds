@@ -448,7 +448,6 @@ const simulate = () => {
                 name="Investidores N1"
                 strokeDasharray="5 5"
                 strokeWidth={2}
-                strokeWidth={2}
                 hide={graficoFinanceiro}
               />
               <Line
